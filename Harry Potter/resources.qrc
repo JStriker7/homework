@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/"/>
+    <qresource prefix="/files">
+        <file>texts/Harry Potter and the Goblet of Fire.txt</file>
+        <file>texts/Harry Potter and the Half-Blood Prince.txt</file>
+        <file>texts/Harry Potter and the Prisoner of Azkaban.txt</file>
+        <file>texts/Harry Potter Prequel.txt</file>
+        <file>texts/Harry_Potter_and_the_Chamber_of_Secrets_Book_2.txt</file>
+        <file>texts/Harry_Potter_and_the_Deathly_Hallows_Book_7.txt</file>
+        <file>texts/Quidditch Through the Ages.txt</file>
+        <file>texts/The Tales of Beedle the Bard.txt</file>
+    </qresource>
+</RCC>
