@@ -1,0 +1,4 @@
+﻿  主界面.cpp
+D:\CG\飞机大战\飞机大战\主界面.cpp(291,24): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\CG\飞机大战\飞机大战\主界面.cpp(386,22): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  飞机大战.vcxproj -> D:\CG\飞机大战\x64\Debug\飞机大战.exe
